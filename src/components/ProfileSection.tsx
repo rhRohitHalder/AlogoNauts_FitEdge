@@ -13,7 +13,7 @@ const ProfileSection = () => {
             className="w-24 h-24 rounded-full border-4 border-purple-500"
           />
           <div>
-            <h2 className="text-2xl font-bold">Alex Thompson</h2>
+            <h2 className="text-2xl font-bold">User</h2>
             <p className="text-gray-400">Fitness Enthusiast</p>
             <div className="flex items-center mt-2">
               <Award className="w-5 h-5 text-yellow-400 mr-2" />
