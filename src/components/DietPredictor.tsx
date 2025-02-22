@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { Brain, MessageSquare } from "lucide-react";
+// import styled from "styled-components"; // Add this line
+// import { useNavigate } from "react-router-dom";
 
 // Expanded Static Dataset for Diet Prediction (Multiple Suggestions)
 const dietDatabase: Record<string, string[]> = {
